@@ -1,0 +1,20 @@
+IMPACTOS SOCIAIS:
+- Impacto ambiental; (Qualidade de vida)
+- Impacto fianceiro; (Qualidade de vida)
+- Incentivo a uso de carros elétricos;
+
+Problema: 
+- Localização de carregadores de carros elétricos;
+- Carregadores;
+- Carros 100% elétricos podem não conseguir fazer uma longa viagem sem recarregar, portanto é importante saber onde carregar o carro.
+- Carros híbridos utilizam gasolina e bateria.
+- Carros que utilizam somente gasolina, poluem mais o meio ambiente, tem maiores custos de manutenção, em contrapartida existem modelos mais em conta.
+
+Solução:
+- Site onde é possivel localizar pontos de recargas para carros elétricos.
+- Pode ajudar a reduzir a poluição do ar;
+- É mais barato recarrgar um carro elétrico até 100% do que encher um tanque de gasolina;
+- A popularização de carros elétricos, pode acarretar em redução de preço dos carros;
+- Sabendo a localização dos carregadores, é possivel planejar uma longa viagem, pois não ficará sem energia no carro.
+
+

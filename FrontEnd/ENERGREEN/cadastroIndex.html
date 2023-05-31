@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/1ab94d0eba.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="styleCadastro.css">
+    <title>Ener | Green - Cadastre-se </title>
+</head>
+<body>
+    <!--Sessão de Cadastro-->
+    <main class="container">
+        <h2>Cadastre-se</h2>
+        <form action="">
+            <div class="input-field">
+                <input type="text" name="nome" id="nome"
+                placeholder="Nome completo" required>
+            </div>
+            <div class="input-field">
+                <input type="text" name="CPF" id="CPF"
+                placeholder="CPF" required>
+            </div>
+            <div class="input-field">
+                <input type="text" name="Telefone" id="Telefone"
+                placeholder="Nº Telefone" required>
+            </div>
+            <div class="input-field">
+                <input type="text" name="email" id="email"
+                placeholder="E-mail" required>
+            </div>
+            <div class="input-field">
+                <input type="password" name="senha" id="senha"
+                placeholder="Senha" required>
+            </div>
+            <input type="submit" value="Enviar" onclick="exibeAlert()" value="Exibir Alert">
+        </form>
+        <div>
+            <span>Já tem conta? Faça <a href="loginIndex.html">Login</a></span>
+        </div>
+        <script>
+            function exibeAlert() {
+                alert("Cadastro efetuado")
+            }
+        </script>
+    </main>
+</body>
+</html>
